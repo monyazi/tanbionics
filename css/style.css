@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+* {margin:0; padding:0;}
+body {background-image: url("../img/Tan-Bionica-2.png"); background-repeat: no-repeat; background-size: cover; background-attachment: fixed; text-align: center; color: #FFFFFF; font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";}
+.wrapper {background-color:rgba(42,144,240,0.65); width: 1000px; margin-left: auto; margin-right: auto;}
+.pie {font-size:10px; color: aliceblue; height: 50px; line-height:50px; background-color:#05115A;}
+.menu { background-color:#05115A; color: aliceblue; height: 220px; width: 1000px; }
+ul {list-style-type:none; width: 1000px; height: 50px;}
+li {width: 249px; float: left; border-left: 1px solid white; line-height:30px;}
+#izquierdo {border-left: none;}
+h1 {font-size: 60px; line-height: 180px;}
+.fondo { background-color: black; width: 800px; padding:50px;  margin-bottom: 50px; margin-top: 50px; margin-left: auto; margin-right: auto;}
+h2 {color:rgba(42,144,240,1.00); margin-bottom:25px; border-top: 1px solid rgba(42,144,240,1.00); border-bottom:1px solid rgba(42,144,240,1.00); line-height:50px; width: 333px; margin-left: auto; margin-right: auto;}
+#bio p {text-align: justify;}
+#discografia p {text-align: justify;}
+.disco { width:317px; height: 380px; background-color: aliceblue; margin: 8px; box-shadow:10px 10px 20px black; float: left;}
+.disco h3 {color: black;}
+.clear {clear: both;}
+a {text-decoration: none; color:aliceblue; }
+a:hover {color:rgba(42,144,240,1.00); }
+/* Estructura CSS selector {propiedad:valor};*/
